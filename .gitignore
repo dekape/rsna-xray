@@ -1,0 +1,6 @@
+*.gsheet
+misc/*.zip
+presenting/
+submission/
+xray-data/
+wandb/
